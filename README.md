@@ -1,5 +1,5 @@
 # DictionaryandTodoApp
-Dictionary and todo app
+todo app
 
 ### Requirment
 
