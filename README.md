@@ -1,4 +1,4 @@
-# DictionaryandTodoApp
+# TodoApp
 todo app
 
 ### Requirment
