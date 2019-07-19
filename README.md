@@ -19,5 +19,9 @@ $ npm install
 $ react-native run-android
 ```
 
+### APK Documentation Screenshot when it Use
 
-https://raw.githubusercontent.com/AnjasSM/DictionaryandTodoApp/master/src/Assets/Dummy/Screenshot_2019-07-19-16-19-04-17.png
+<p align="center">
+    <img src="https://raw.githubusercontent.com/AnjasSM/DictionaryandTodoApp/master/src/Assets/Dummy/Screenshot_2019-07-19-16-19-04-17.png" width=400 align="center" style="margin-right:20px"/>
+</p>
+
