@@ -18,3 +18,6 @@ $ cd DictionaryandTodoApp
 $ npm install
 $ react-native run-android
 ```
+
+
+https://raw.githubusercontent.com/AnjasSM/DictionaryandTodoApp/master/src/Assets/Dummy/Screenshot_2019-07-19-16-19-04-17.png
